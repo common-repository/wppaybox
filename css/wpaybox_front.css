@@ -1,0 +1,12 @@
+.clear{	clear:both;	}
+.wpaybox_form_label{	display:table; width:30%; vertical-align:top; float:left;	}
+.wpaybox_form_input{	width:50%; margin:0px 0px 3px !important;	}
+.wpaybox_form_input textarea, .wpaybox_form_input select, .wpaybox_form_input input[type=text], .wpaybox_form_input input[type=file]{	width:60% !important;	}
+.wpaybox_form_input input[type=radio], .wpaybox_form_input input[type=checkbox]{	margin:0px 1px 0px 6px; vertical-align:middle;	}
+
+.errorFieldAlert{	margin:6px 0px; border:1px dashed #990000; background-color:#FFFF66; color:red; width:80%; text-align:center;	}
+.mandatoryFieldAlert{	margin:6px 0px; border:1px dashed #990000; background-color:#FFFF66; color:red; width:80%; text-align:center;	}
+.isMandatoryField{	color:red;	}
+
+.payboxButtonFormPayment{	border:0px solid black;	}
+.payboxButtonFormPrePayment{	border:0px solid black;	}
